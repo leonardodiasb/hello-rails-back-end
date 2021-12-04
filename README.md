@@ -22,7 +22,7 @@
 1. Clone the repo
 
    ```sh
-   https://github.com/leonardodiasb/blog-app.git
+   https://github.com/leonardodiasb/hello-rails-back-end
    ```
    
 2. Install ruby gems `bundle install`
@@ -60,7 +60,7 @@ or authentication.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/smunozmo/ruby-group-capston/issues).
+Feel free to check the [issues page](https://github.com/leonardodiasb/hello-rails-back-end/issues).
 
 ## Show your support
 
